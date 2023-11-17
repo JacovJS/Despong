@@ -1,0 +1,7 @@
+##INSTRUCTIONS
+1.) To start off, open [desmos](desmos.com) in your web engine (suggested: google chrome)
+2.) Afterwards, open the pong.js file in the [respo](https://github.com/JacovJS/Despong)
+3.) Open the raw version of pong.js file and copy the raw file.
+3.) Then on the search bar, clear the desmos.com and replace it with javascript:
+4.) After the colon, paste the raw file that you previously copied on step 3 then, press enter.
+5.) Enjoy and play pong on desmos!
